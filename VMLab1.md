@@ -12,7 +12,7 @@
   });
   ```
   
-  ## Answer: asynchronous because it uses a callback function
+    ## Answer: asynchronous because it uses a callback function
   
 2. Is the following code blocking or non-blocking? 
 
@@ -22,7 +22,7 @@
     });
     ```
 
-    ##Answer: **Non-blocking** since it *uses callback function*.
+    ## Answer: **Non-blocking** since it *uses callback function*.
 
 # 2 Questions I still have are...
 
@@ -30,4 +30,4 @@
 * Node.js uses some complex web terms, how shall a person who is confused about these terms like proxy, headers, etc,. make himself comfortable with the web?  
 
 ![GitHub Logo](cmd.png)
-Format: ![Alt Text](url)
+
