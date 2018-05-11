@@ -1,6 +1,6 @@
 # 2 Things I Learned Form of Quiz Questions
 
-1. Is the following code synchronous or asunchronous?
+1. Is the following code synchronous or asynchronous?
 
     ```js
     var food = fs.readFile('food.txt','utf8',function(err,food){
