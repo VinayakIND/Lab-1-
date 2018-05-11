@@ -2,15 +2,15 @@
 
 1. Is the following code synchronous or asunchronous?
 
-  ```js
-  var food = fs.readFile('food.txt','utf8',function(err,food){
-    if (err) {
-      console.log(err);
-    } else {
-      console.log(food);
-    }
-  });
-  ```
+    ```js
+    var food = fs.readFile('food.txt','utf8',function(err,food){
+        if (err) {
+        console.log(err);
+        } else {
+        console.log(food);
+        }
+    });
+    ```
   
     ## Answer: asynchronous because it uses a callback function
   
